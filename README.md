@@ -9,4 +9,4 @@ Q3 | Feita
 Q4 | Feita
 Q5 | Não Feita
 Q6 | Feita
-Q7 | Não Feita
+Q7 | Feita
